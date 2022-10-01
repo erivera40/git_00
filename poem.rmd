@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Elizabeth Rivera"
+date: "30-SEP-2022"
 output: html_document
 ---
 
